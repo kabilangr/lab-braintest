@@ -2,7 +2,7 @@
     <wb-module deploy-name="lab-java-11-braintest">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="lab-java-11-braintest"/>
         <property name="java-output-path" value="/lab-java-11-braintest/build/classes"/>
+        <property name="context-root" value="lab-java-11"/>
     </wb-module>
 </project-modules>
