@@ -25,7 +25,7 @@ public class PersonalityCalculator
 		{
 			a[i]=Integer.parseInt(c[i]);
 			count=count+1;
-			System.out.println("The answer for questions -"+count+" is "a[i]);
+			System.out.println("The answer for questions -"+count+" is "+a[i]);
 		}
 		return a;
 	}
